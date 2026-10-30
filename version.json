@@ -1,6 +1,6 @@
 {
   "version": "v1.0.0",
-  "versionCode": 1.0.0,
+  "versionCode": 1,
   "date": "2026-10-30",
   "notes": [
     "Attendance records for face-to-face and online classes, with an attendance check for online classes.",
