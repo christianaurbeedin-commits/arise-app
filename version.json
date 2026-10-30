@@ -1,0 +1,17 @@
+{
+  "version": "v131",
+  "versionCode": 131,
+  "date": "2026-10-30",
+  "notes": [
+    "Attendance records for face-to-face and online classes, with an attendance check for online classes.",
+    "Grade 11 and Grade 12 class records (ECR).",
+    "Names of the registrar, adviser and principal on the school forms.",
+    "Clearer message when the enrollment form cannot reach the school server."
+  ],
+  "notes_fil": [
+    "Talaan ng pagdalo para sa face-to-face at online na klase, may attendance check para sa online.",
+    "Class record (ECR) para sa Grade 11 at Grade 12.",
+    "Mga pangalan ng registrar, adviser at punong-guro sa mga school form.",
+    "Mas malinaw na mensahe kapag hindi maabot ng enrollment form ang server ng paaralan."
+  ]
+}
