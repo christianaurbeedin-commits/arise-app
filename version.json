@@ -1,17 +1,17 @@
 {
-  "version": "v1.1.1",
-  "versionCode": 1,
-  "date": "2026-10-30",
+  "version": "1.2.3",
+  "versionCode": 136,
+  "date": "2026-11-01",
   "notes": [
-    "Attendance records for face-to-face and online classes, with an attendance check for online classes.",
-    "Grade 11 and Grade 12 class records (ECR).",
-    "Names of the registrar, adviser and principal on the school forms.",
-    "Clearer message when the enrollment form cannot reach the school server."
+    "Your advisory class (Grade 11 or Grade 12) now comes first in Classes, with your adviser's announcements and tasks.",
+    "Teachers see the list of learners in each of their classes.",
+    "When the school requires an update, the app says so and opens the download page. Apps older than 1.2.3 stop working once the school requires it.",
+    "For staff: real passwords in Accounts (coordinator only), accounts only for enrolled learners, permanent delete, tidier account and enrollment cards, and a wider key-point box in the auto-checker."
   ],
   "notes_fil": [
-    "Talaan ng pagdalo para sa face-to-face at online na klase, may attendance check para sa online.",
-    "Class record (ECR) para sa Grade 11 at Grade 12.",
-    "Mga pangalan ng registrar, adviser at punong-guro sa mga school form.",
-    "Mas malinaw na mensahe kapag hindi maabot ng enrollment form ang server ng paaralan."
+    "Nauuna na sa Classes ang iyong advisory class (Grade 11 o Grade 12), kasama ang mga anunsiyo at gawain mula sa iyong adviser.",
+    "Nakikita ng mga guro ang listahan ng mga mag-aaral sa bawat klase nila.",
+    "Kapag ni-require ng paaralan ang update, sasabihin ito ng app at bubuksan ang download page. Hindi na gagana ang mga app na mas luma sa 1.2.3 kapag ni-require na ito.",
+    "Para sa staff: totoong password sa Accounts (coordinator lang), account para lang sa naka-enroll, permanenteng pag-delete, mas maayos na account at enrollment card, at mas malapad na kahon ng key point sa auto-checker."
   ]
 }
