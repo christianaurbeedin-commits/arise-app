@@ -1,15 +1,21 @@
 {
-  "version": "1.2.6",
-  "versionCode": 139,
-  "date": "2026-11-02",
+  "version": "1.2.7",
+  "versionCode": 140,
+  "date": "2026-11-03",
   "notes": [
-    "A section is now chosen from a drop-down everywhere in the app — one field that opens the list, the same size and shape in every portal, with a search box once a school has more than nine sections.",
-    "Class schedules are set per term. The coordinator fills in Term 1, Term 2 and Term 3 in the Sections tab, and each portal shows the timetable of whichever term is activated in Tagging.",
-    "Work a learner hands in is renamed as it is sent: SURNAME_SUBJECT_ACTIVITY, with a short name for each subject, so a teacher can tell one piece of work from another without opening any of them. It applies to every class card, the advisory class included."
+    "Every class card now has a class leaderboard: who is keeping up, scored out of 100 — 50 for handing work in on time, 20 for handing it in at all, 30 for the average of the scores returned. The teacher sees the whole class in order; a learner sees the top three and their own standing.",
+    "The adviser can open the work handed in to their advisory class. Before, only the file's name was shown, with nothing to tap.",
+    "Work handed in before the naming rule existed is renamed once, in place, the next time a teacher, adviser, coordinator or principal opens the app. The file itself is untouched and what the learner called it is kept.",
+    "Fixed: the Requirements tab in the adviser's Enrollment broke across two lines as REQUIREMENT / S.",
+    "Fixed: a section's schedule showed a raw {t} instead of the term's name, and opened on Term 1 in a school that was already in Term 2.",
+    "In the coordinator's Home, the classes each teacher handles now sit under their name and designation instead of at the foot of the card."
   ],
   "notes_fil": [
-    "Sa buong app, ang seksiyon ay pinipili na sa isang drop-down — isang field na nagbubukas ng listahan, pare-pareho ang laki at hugis sa bawat portal, at may hanapan kapag higit sa siyam ang seksiyon ng paaralan.",
-    "Itinatakda na ang iskedyul ng klase bawat termino. Pinupunan ng coordinator ang Term 1, Term 2 at Term 3 sa Sections tab, at ipinapakita ng bawat portal ang iskedyul ng terminong binuksan sa Tagging.",
-    "Pinapalitan ng pangalan ang gawaing ipinapasa ng mag-aaral habang ipinapadala: APELYIDO_ASIGNATURA_BILANG NG GAWAIN, may maikling pangalan ang bawat asignatura, para matukoy ng guro ang bawat gawain nang hindi binubuksan ang alinman. Umiiral ito sa bawat class card, kasama ang advisory class."
+    "May leaderboard na ang bawat class card: kung sino ang nakakasunod, may puntos mula sa 100 — 50 sa pagpasa nang nasa oras, 20 sa pagpasa, 30 sa average ng mga naibalik na puntos. Nakikita ng guro ang buong klase ayon sa pagkakasunod; nakikita ng mag-aaral ang nangungunang tatlo at ang sarili niyang pwesto.",
+    "Mabubuksan na ng adviser ang gawaing ipinasa sa advisory class nila. Dati, pangalan lang ng file ang lumalabas at walang matapik.",
+    "Pinapalitan ng pangalan ang gawaing naipasa bago pa umiral ang panuntunan sa pangalan, nang isang beses, sa susunod na buksan ng guro, adviser, coordinator o punongguro ang app. Hindi ginagalaw ang mismong file at itinatago ang tawag dito ng mag-aaral.",
+    "Naayos: ang tab na Requirements sa Enrollment ng adviser ay napuputol sa dalawang linya bilang REQUIREMENT / S.",
+    "Naayos: may lumalabas na {t} sa iskedyul ng seksiyon sa halip na pangalan ng termino, at bumubukas ito sa Term 1 kahit nasa Term 2 na ang paaralan.",
+    "Sa Home ng coordinator, ang mga klaseng hawak ng bawat guro ay nasa ilalim na ng pangalan at designation nila sa halip na nasa paanan ng card."
   ]
 }
