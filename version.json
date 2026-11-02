@@ -1,25 +1,25 @@
 {
-  "version": "1.2.4",
-  "versionCode": 137,
+  "version": "1.2.5",
+  "versionCode": 138,
   "date": "2026-11-02",
   "notes": [
-    "The start screen no longer flashes an unstyled page before the sign-in screen.",
-    "The ALS coordinator can put a notice on every phone when the app opens, and can close the app for maintenance while keeping their own access.",
-    "Manila City Jail classes: their teachers sign in at the teacher portal, give work to a jail class, and mark each learner Completed, In progress or Not yet. The jail portal has a Classes tab showing it, and the RLP record follows from it.",
-    "Group chats for the jail portal, the principal and the alumni, and in every group chat you can now pin a message, react to one, and send a file.",
-    "Enrollment shows male, female and total for each grade level, in the adviser's, coordinator's and principal's portals.",
-    "Subjects now belong to the section: set them once and every teacher tagging and every learner enrolled afterwards follows from them.",
-    "The coordinator can move an enrolment appointment or delete it, and an applicant can look up their own with their reference number.",
-    "Tidier account cards, a clearer filter panel on the principal's School tab, no more overlapping notices on the sign-in screen, and deleting a section now takes its class records with it."
+    "Manila City Jail classes: the ALS SHS teacher of the class is the one who marks the work — completed, in progress, not yet, or no submission — and the jail portal receives the mark on its class cards.",
+    "A section is now picked the same way everywhere: every section shown at once instead of a row that runs off the side, and a searchable field once a school has more than nine.",
+    "The coordinator can send a reminder to the teachers' phones — deploy activities, deploy group activities, deploy examinations, or hold the online classes — and it waits in each teacher's Inbox until they tick it off.",
+    "Tapping \"Enroll here\" now asks whether you are checking an appointment or going on to enroll, and an applicant whose appointment the school moves is told the next time they open the app.",
+    "Enrollment appointments: Wednesdays, Saturdays and Sundays are closed (Friday is open again), and a booked appointment now shows the school, its address and what to bring.",
+    "The grade-level buttons on the enrollment form no longer look chosen before you pick one.",
+    "Maintenance mode shows a maintenance screen, with the coordinator's note on it.",
+    "The coordinator's Home no longer repeats each section's title inside the card."
   ],
   "notes_fil": [
-    "Hindi na kumikislap ang start screen bago lumabas ang sign-in screen.",
-    "Makapaglalagay ang ALS coordinator ng paalala sa bawat telepono kapag binuksan ang app, at maisasara ang app para sa maintenance nang hindi nawawalan ng sariling access.",
-    "Mga klase sa Manila City Jail: nagsa-sign in ang kanilang mga guro sa teacher portal, nagbibigay ng gawain, at minamarkahan ang bawat mag-aaral ng Tapos na, Ginagawa pa o Hindi pa. May Classes tab na ang jail portal, at dito nakabatay ang RLP record.",
-    "May group chat na ang jail portal, ang punongguro at ang alumni; sa bawat group chat ay puwede nang mag-pin, mag-react at magpadala ng file.",
-    "Ipinapakita sa Enrollment ang lalaki, babae at kabuuan bawat baitang, sa portal ng adviser, coordinator at punongguro.",
-    "Sa seksiyon na nakatali ang mga asignatura: itakda minsan at dito na susunod ang pag-tag ng guro at ang bawat mag-aaral na ie-enroll pagkatapos.",
-    "Maililipat o mabubura ng coordinator ang appointment sa enrollment, at matitingnan ng nag-apply ang sarili nila gamit ang reference number.",
-    "Mas maayos na account card, mas malinaw na filter sa School tab ng punongguro, wala nang nagsasapawang paalala sa sign-in screen, at kasama nang nabubura ang mga talaan ng klase kapag binura ang seksiyon."
+    "Mga klase sa Manila City Jail: ang guro ng ALS SHS ng klase na ang nagmamarka ng gawain — tapos na, ginagawa pa, hindi pa, o walang ipinasa — at natatanggap ng jail portal ang marka sa mga class card nito.",
+    "Pare-pareho na ang pagpili ng seksiyon kahit saan: nakikita lahat nang sabay-sabay sa halip na hilerang lumalampas sa gilid, at nagiging field na may hanapan kapag higit sa siyam ang seksiyon ng paaralan.",
+    "Makapagpapadala ang coordinator ng paalala sa telepono ng mga guro — mag-deploy ng gawain, pangkatang gawain, pagsusulit, o magdaos ng online na klase — at maghihintay ito sa Inbox ng bawat guro hanggang matapos nila.",
+    "Kapag tinapik ang \"Enroll here\", itatanong na muna kung titingnan ang appointment o magpapatuloy sa pag-enroll, at masasabihan ang nag-apply kapag inilipat ng paaralan ang kanilang appointment sa susunod na pagbukas ng app.",
+    "Appointment sa enrollment: sarado ang Miyerkules, Sabado at Linggo (bukas muli ang Biyernes), at ipinapakita na ng nakatakdang appointment ang paaralan, ang address at ang dapat dalhin.",
+    "Hindi na mukhang napili ang mga butones ng baitang sa enrollment form bago pa pumili.",
+    "May maintenance screen na ang maintenance mode, kasama ang paalala ng coordinator.",
+    "Hindi na inuulit ng Home ng coordinator ang pamagat ng bawat seksiyon sa loob ng card."
   ]
 }
