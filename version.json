@@ -1,17 +1,25 @@
 {
-  "version": "1.2.3",
-  "versionCode": 136,
-  "date": "2026-11-01",
+  "version": "1.2.4",
+  "versionCode": 137,
+  "date": "2026-11-02",
   "notes": [
-    "Your advisory class (Grade 11 or Grade 12) now comes first in Classes, with your adviser's announcements and tasks.",
-    "Teachers see the list of learners in each of their classes.",
-    "When the school requires an update, the app says so and opens the download page. Apps older than 1.2.3 stop working once the school requires it.",
-    "For staff: real passwords in Accounts (coordinator only), accounts only for enrolled learners, permanent delete, tidier account and enrollment cards, and a wider key-point box in the auto-checker."
+    "The start screen no longer flashes an unstyled page before the sign-in screen.",
+    "The ALS coordinator can put a notice on every phone when the app opens, and can close the app for maintenance while keeping their own access.",
+    "Manila City Jail classes: their teachers sign in at the teacher portal, give work to a jail class, and mark each learner Completed, In progress or Not yet. The jail portal has a Classes tab showing it, and the RLP record follows from it.",
+    "Group chats for the jail portal, the principal and the alumni, and in every group chat you can now pin a message, react to one, and send a file.",
+    "Enrollment shows male, female and total for each grade level, in the adviser's, coordinator's and principal's portals.",
+    "Subjects now belong to the section: set them once and every teacher tagging and every learner enrolled afterwards follows from them.",
+    "The coordinator can move an enrolment appointment or delete it, and an applicant can look up their own with their reference number.",
+    "Tidier account cards, a clearer filter panel on the principal's School tab, no more overlapping notices on the sign-in screen, and deleting a section now takes its class records with it."
   ],
   "notes_fil": [
-    "Nauuna na sa Classes ang iyong advisory class (Grade 11 o Grade 12), kasama ang mga anunsiyo at gawain mula sa iyong adviser.",
-    "Nakikita ng mga guro ang listahan ng mga mag-aaral sa bawat klase nila.",
-    "Kapag ni-require ng paaralan ang update, sasabihin ito ng app at bubuksan ang download page. Hindi na gagana ang mga app na mas luma sa 1.2.3 kapag ni-require na ito.",
-    "Para sa staff: totoong password sa Accounts (coordinator lang), account para lang sa naka-enroll, permanenteng pag-delete, mas maayos na account at enrollment card, at mas malapad na kahon ng key point sa auto-checker."
+    "Hindi na kumikislap ang start screen bago lumabas ang sign-in screen.",
+    "Makapaglalagay ang ALS coordinator ng paalala sa bawat telepono kapag binuksan ang app, at maisasara ang app para sa maintenance nang hindi nawawalan ng sariling access.",
+    "Mga klase sa Manila City Jail: nagsa-sign in ang kanilang mga guro sa teacher portal, nagbibigay ng gawain, at minamarkahan ang bawat mag-aaral ng Tapos na, Ginagawa pa o Hindi pa. May Classes tab na ang jail portal, at dito nakabatay ang RLP record.",
+    "May group chat na ang jail portal, ang punongguro at ang alumni; sa bawat group chat ay puwede nang mag-pin, mag-react at magpadala ng file.",
+    "Ipinapakita sa Enrollment ang lalaki, babae at kabuuan bawat baitang, sa portal ng adviser, coordinator at punongguro.",
+    "Sa seksiyon na nakatali ang mga asignatura: itakda minsan at dito na susunod ang pag-tag ng guro at ang bawat mag-aaral na ie-enroll pagkatapos.",
+    "Maililipat o mabubura ng coordinator ang appointment sa enrollment, at matitingnan ng nag-apply ang sarili nila gamit ang reference number.",
+    "Mas maayos na account card, mas malinaw na filter sa School tab ng punongguro, wala nang nagsasapawang paalala sa sign-in screen, at kasama nang nabubura ang mga talaan ng klase kapag binura ang seksiyon."
   ]
 }
