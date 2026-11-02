@@ -1,25 +1,15 @@
 {
-  "version": "1.2.5",
-  "versionCode": 138,
+  "version": "1.2.6",
+  "versionCode": 139,
   "date": "2026-11-02",
   "notes": [
-    "Manila City Jail classes: the ALS SHS teacher of the class is the one who marks the work — completed, in progress, not yet, or no submission — and the jail portal receives the mark on its class cards.",
-    "A section is now picked the same way everywhere: every section shown at once instead of a row that runs off the side, and a searchable field once a school has more than nine.",
-    "The coordinator can send a reminder to the teachers' phones — deploy activities, deploy group activities, deploy examinations, or hold the online classes — and it waits in each teacher's Inbox until they tick it off.",
-    "Tapping \"Enroll here\" now asks whether you are checking an appointment or going on to enroll, and an applicant whose appointment the school moves is told the next time they open the app.",
-    "Enrollment appointments: Wednesdays, Saturdays and Sundays are closed (Friday is open again), and a booked appointment now shows the school, its address and what to bring.",
-    "The grade-level buttons on the enrollment form no longer look chosen before you pick one.",
-    "Maintenance mode shows a maintenance screen, with the coordinator's note on it.",
-    "The coordinator's Home no longer repeats each section's title inside the card."
+    "A section is now chosen from a drop-down everywhere in the app — one field that opens the list, the same size and shape in every portal, with a search box once a school has more than nine sections.",
+    "Class schedules are set per term. The coordinator fills in Term 1, Term 2 and Term 3 in the Sections tab, and each portal shows the timetable of whichever term is activated in Tagging.",
+    "Work a learner hands in is renamed as it is sent: SURNAME_SUBJECT_ACTIVITY, with a short name for each subject, so a teacher can tell one piece of work from another without opening any of them. It applies to every class card, the advisory class included."
   ],
   "notes_fil": [
-    "Mga klase sa Manila City Jail: ang guro ng ALS SHS ng klase na ang nagmamarka ng gawain — tapos na, ginagawa pa, hindi pa, o walang ipinasa — at natatanggap ng jail portal ang marka sa mga class card nito.",
-    "Pare-pareho na ang pagpili ng seksiyon kahit saan: nakikita lahat nang sabay-sabay sa halip na hilerang lumalampas sa gilid, at nagiging field na may hanapan kapag higit sa siyam ang seksiyon ng paaralan.",
-    "Makapagpapadala ang coordinator ng paalala sa telepono ng mga guro — mag-deploy ng gawain, pangkatang gawain, pagsusulit, o magdaos ng online na klase — at maghihintay ito sa Inbox ng bawat guro hanggang matapos nila.",
-    "Kapag tinapik ang \"Enroll here\", itatanong na muna kung titingnan ang appointment o magpapatuloy sa pag-enroll, at masasabihan ang nag-apply kapag inilipat ng paaralan ang kanilang appointment sa susunod na pagbukas ng app.",
-    "Appointment sa enrollment: sarado ang Miyerkules, Sabado at Linggo (bukas muli ang Biyernes), at ipinapakita na ng nakatakdang appointment ang paaralan, ang address at ang dapat dalhin.",
-    "Hindi na mukhang napili ang mga butones ng baitang sa enrollment form bago pa pumili.",
-    "May maintenance screen na ang maintenance mode, kasama ang paalala ng coordinator.",
-    "Hindi na inuulit ng Home ng coordinator ang pamagat ng bawat seksiyon sa loob ng card."
+    "Sa buong app, ang seksiyon ay pinipili na sa isang drop-down — isang field na nagbubukas ng listahan, pare-pareho ang laki at hugis sa bawat portal, at may hanapan kapag higit sa siyam ang seksiyon ng paaralan.",
+    "Itinatakda na ang iskedyul ng klase bawat termino. Pinupunan ng coordinator ang Term 1, Term 2 at Term 3 sa Sections tab, at ipinapakita ng bawat portal ang iskedyul ng terminong binuksan sa Tagging.",
+    "Pinapalitan ng pangalan ang gawaing ipinapasa ng mag-aaral habang ipinapadala: APELYIDO_ASIGNATURA_BILANG NG GAWAIN, may maikling pangalan ang bawat asignatura, para matukoy ng guro ang bawat gawain nang hindi binubuksan ang alinman. Umiiral ito sa bawat class card, kasama ang advisory class."
   ]
 }
