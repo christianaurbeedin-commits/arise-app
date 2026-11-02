@@ -1,9 +1,9 @@
 {
-  "version": "1.2.7",
-  "versionCode": 140,
+  "version": "1.2.8",
+  "versionCode": 141,
   "date": "2026-11-03",
   "notes": [
-    "Every class card now has a class leaderboard: who is keeping up, scored out of 100 — 50 for handing work in on time, 20 for handing it in at all, 30 for the average of the scores returned. The teacher sees the whole class in order; a learner sees the top three and their own standing.",
+    "The class leaderboard is now a podium: the top three with their photographs, the champion raised and crowned in the middle, silver and bronze either side, and the rest of the order a tap below. It opens showing the top three, with no tapping needed.",
     "The adviser can open the work handed in to their advisory class. Before, only the file's name was shown, with nothing to tap.",
     "Work handed in before the naming rule existed is renamed once, in place, the next time a teacher, adviser, coordinator or principal opens the app. The file itself is untouched and what the learner called it is kept.",
     "Fixed: the Requirements tab in the adviser's Enrollment broke across two lines as REQUIREMENT / S.",
@@ -11,7 +11,7 @@
     "In the coordinator's Home, the classes each teacher handles now sit under their name and designation instead of at the foot of the card."
   ],
   "notes_fil": [
-    "May leaderboard na ang bawat class card: kung sino ang nakakasunod, may puntos mula sa 100 — 50 sa pagpasa nang nasa oras, 20 sa pagpasa, 30 sa average ng mga naibalik na puntos. Nakikita ng guro ang buong klase ayon sa pagkakasunod; nakikita ng mag-aaral ang nangungunang tatlo at ang sarili niyang pwesto.",
+    "Podium na ang leaderboard ng klase: ang nangungunang tatlo kasama ang kanilang litrato, nasa gitna at may korona ang kampeon, pilak at tanso sa magkabilang gilid, at ang iba pang pagkakasunod ay isang tapik lamang sa ibaba. Bukas agad ito sa nangungunang tatlo, hindi na kailangang tapikin.",
     "Mabubuksan na ng adviser ang gawaing ipinasa sa advisory class nila. Dati, pangalan lang ng file ang lumalabas at walang matapik.",
     "Pinapalitan ng pangalan ang gawaing naipasa bago pa umiral ang panuntunan sa pangalan, nang isang beses, sa susunod na buksan ng guro, adviser, coordinator o punongguro ang app. Hindi ginagalaw ang mismong file at itinatago ang tawag dito ng mag-aaral.",
     "Naayos: ang tab na Requirements sa Enrollment ng adviser ay napuputol sa dalawang linya bilang REQUIREMENT / S.",
