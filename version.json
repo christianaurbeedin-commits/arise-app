@@ -1,8 +1,10 @@
 {
-  "version": "1.3.4",
-  "versionCode": 147,
+  "version": "1.3.5",
+  "versionCode": 148,
   "date": "2026-11-03",
   "notes": [
+    "The loading screen stays as it should until the app opens: no more moment of large logos over plain text.",
+    "Coordinator's Enrollment tab: each learner's photo leads the card at the same size as in Accounts, and the Male/Female headings of the tally no longer run together at the larger text size.",
     "The class leaderboard is on every class, including the advisory class. A class where nobody has handed anything in yet says so instead of hiding the board.",
     "Learners now see the whole class on the leaderboard, in subject classes and in the advisory class. The teacher's or adviser's app keeps each board up to date as work comes in, without having to open the class.",
     "The leaderboard title no longer sits on the card's border.",
@@ -12,6 +14,8 @@
     "Coordinator's Home: Meetings with learners no longer has its heading twice. Fingerprint sign-in is removed."
   ],
   "notes_fil": [
+    "Nananatiling maayos ang loading screen hanggang bumukas ang app: wala nang sandaling malalaking logo sa ibabaw ng payak na teksto.",
+    "Tab na Enrollment ng coordinator: nauuna na ang litrato ng bawat mag-aaral sa card sa parehong laki ng nasa Accounts, at hindi na nagdidikit ang LALAKI at BABAE sa tally sa mas malaking laki ng teksto.",
     "Nasa bawat klase na ang class leaderboard, kasama ang advisory class. Kapag wala pang nakapagpasa, sinasabi ito sa halip na itago ang board.",
     "Nakikita na ng mga mag-aaral ang buong klase sa leaderboard, sa mga asignatura at sa advisory class. Ang app ng guro o adviser ang nag-a-update ng bawat board habang may nagpapasa, kahit hindi binubuksan ang klase.",
     "Hindi na nakapatong sa gilid ng card ang pamagat ng leaderboard.",
