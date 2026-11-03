@@ -1,9 +1,11 @@
 {
-  "version": "1.2.8",
-  "versionCode": 141,
+  "version": "1.2.9",
+  "versionCode": 142,
   "date": "2026-11-03",
   "notes": [
-    "The class leaderboard is now a podium: the top three with their photographs, the champion raised and crowned in the middle, silver and bronze either side, and the rest of the order a tap below. It opens showing the top three, with no tapping needed.",
+    "The class leaderboard now has exactly one champion, one silver and one bronze. Where learners used to tie on the same figure and all three showed as champion, submission time separates them.",
+    "How early work is handed in counts, not only whether it beat the deadline: the on-time half of the score is earned in full three days ahead and falls to 60% of it at the deadline itself. Late still earns none of it.",
+    "The podium lines up: the names, scores and blocks sit on shared baselines whatever size the champion's portrait is.",
     "The adviser can open the work handed in to their advisory class. Before, only the file's name was shown, with nothing to tap.",
     "Work handed in before the naming rule existed is renamed once, in place, the next time a teacher, adviser, coordinator or principal opens the app. The file itself is untouched and what the learner called it is kept.",
     "Fixed: the Requirements tab in the adviser's Enrollment broke across two lines as REQUIREMENT / S.",
@@ -11,7 +13,9 @@
     "In the coordinator's Home, the classes each teacher handles now sit under their name and designation instead of at the foot of the card."
   ],
   "notes_fil": [
-    "Podium na ang leaderboard ng klase: ang nangungunang tatlo kasama ang kanilang litrato, nasa gitna at may korona ang kampeon, pilak at tanso sa magkabilang gilid, at ang iba pang pagkakasunod ay isang tapik lamang sa ibaba. Bukas agad ito sa nangungunang tatlo, hindi na kailangang tapikin.",
+    "May isang kampeon, isang pilak at isang tanso na lamang ang leaderboard ng klase. Dati, kapag pareho ang puntos ay kampeon silang lahat; ngayon, ang oras ng pagpasa ang naghihiwalay sa kanila.",
+    "Binibilang na kung gaano kaaga ipinasa, hindi lamang kung naabot ang deadline: buo ang kalahating puntos sa pagiging nasa oras kapag tatlong araw na maaga, at 60% na lamang nito sa mismong deadline. Wala pa ring puntos ang huli.",
+    "Pantay-pantay na ang podium: nakahanay ang mga pangalan, puntos at bloke anuman ang laki ng litrato ng kampeon.",
     "Mabubuksan na ng adviser ang gawaing ipinasa sa advisory class nila. Dati, pangalan lang ng file ang lumalabas at walang matapik.",
     "Pinapalitan ng pangalan ang gawaing naipasa bago pa umiral ang panuntunan sa pangalan, nang isang beses, sa susunod na buksan ng guro, adviser, coordinator o punongguro ang app. Hindi ginagalaw ang mismong file at itinatago ang tawag dito ng mag-aaral.",
     "Naayos: ang tab na Requirements sa Enrollment ng adviser ay napuputol sa dalawang linya bilang REQUIREMENT / S.",
