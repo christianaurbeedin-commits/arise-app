@@ -1,17 +1,23 @@
 {
-  "version": "1.3.3",
-  "versionCode": 146,
+  "version": "1.3.4",
+  "versionCode": 147,
   "date": "2026-11-03",
   "notes": [
-    "A learner now sees the class leaderboard their teacher sees. On a school that is on the cloud a learner's phone holds only their own handed-in work, so the board worked itself out as a class of one — which is what learners were reporting. The teacher's phone, which has the whole class, now publishes the finished board for that section to read.",
-    "A class where nobody has handed anything in has no leaderboard at all. Before, it showed a podium of zeroes, and a learner who had handed in nothing was given the bronze medal. Only learners who have actually handed something in stand on the board.",
-    "Names no longer print over the scores. A long name wrapped onto a second line that was cut through the middle, and the app's shrink-to-fit sized each column on its own, so the three names and three scores no longer shared a line. Podium names are now one line in one size, ending in … when too long; the list below the podium spells every name out in full.",
-    "The leaderboard title no longer reads CLASS LEADERBOA… at the larger text size, and the YOU badge keeps clear of the rank number on the portrait."
+    "The class leaderboard is on every class, including the advisory class. A class where nobody has handed anything in yet says so instead of hiding the board.",
+    "Learners now see the whole class on the leaderboard, in subject classes and in the advisory class. The teacher's or adviser's app keeps each board up to date as work comes in, without having to open the class.",
+    "The leaderboard title no longer sits on the card's border.",
+    "The sign-in page shows the app's version.",
+    "RLP (progress) counts the work a learner has handed in and the work that was graded, with the number handed in, graded and the average for each subject.",
+    "School Form 1 (SF1) has room for 50 male and 50 female learners, prints all columns on each page, and every name has its full box.",
+    "Coordinator's Home: Meetings with learners no longer has its heading twice. Fingerprint sign-in is removed."
   ],
   "notes_fil": [
-    "Nakikita na ng mag-aaral ang leaderboard ng klase na nakikita ng kanilang guro. Sa paaralang nasa cloud, ang telepono ng mag-aaral ay may taglay lamang na sariling naipasang gawain, kaya ang board ay nagiging klase ng iisa — ito ang iniuulat ng mga mag-aaral. Ang telepono ng guro, na may buong klase, ang naglalathala na ngayon ng tapos nang board para mabasa ng seksiyong iyon.",
-    "Ang klaseng walang pa namang naipapasa ay walang leaderboard. Dati, may podium ng mga sero, at ang mag-aaral na walang naipasa ay nabibigyan ng tanso. Tanging ang mga may talagang naipasa ang tumatayo sa board.",
-    "Hindi na nakapatong ang mga pangalan sa puntos. Ang mahabang pangalan ay napupunta sa pangalawang linya na naputol sa gitna, at ang shrink-to-fit ng app ay nagbibigay ng kanya-kanyang laki sa bawat hanay, kaya hindi na magkahanay ang tatlong pangalan at tatlong puntos. Isang linya at isang laki na ang mga pangalan sa podium, nagtatapos sa … kapag mahaba; buo ang pangalan sa listahan sa ilalim ng podium.",
-    "Hindi na nababasang CLASS LEADERBOA… ang pamagat sa mas malaking laki ng teksto, at malayo na ang badge na YOU sa numero ng ranggo sa litrato."
+    "Nasa bawat klase na ang class leaderboard, kasama ang advisory class. Kapag wala pang nakapagpasa, sinasabi ito sa halip na itago ang board.",
+    "Nakikita na ng mga mag-aaral ang buong klase sa leaderboard, sa mga asignatura at sa advisory class. Ang app ng guro o adviser ang nag-a-update ng bawat board habang may nagpapasa, kahit hindi binubuksan ang klase.",
+    "Hindi na nakapatong sa gilid ng card ang pamagat ng leaderboard.",
+    "Makikita na ang bersiyon ng app sa sign-in page.",
+    "Binibilang na ng RLP (progress) ang mga naipasa at namarkahang gawain ng mag-aaral, kasama ang bilang ng naipasa, namarkahan at ang average sa bawat asignatura.",
+    "May puwang na ang School Form 1 (SF1) para sa 50 lalaki at 50 babae, nakalimbag ang lahat ng hanay sa bawat pahina, at may sariling kahon ang bawat pangalan.",
+    "Home ng coordinator: hindi na doble ang pamagat ng Meetings with learners. Inalis na ang fingerprint sign-in."
   ]
 }
