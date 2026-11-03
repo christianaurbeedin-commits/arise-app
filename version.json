@@ -1,19 +1,17 @@
 {
-  "version": "1.3.1",
-  "versionCode": 144,
+  "version": "1.3.3",
+  "versionCode": 146,
   "date": "2026-11-03",
   "notes": [
-    "Work handed in opens inside the app. Tapping a learner's file puts it on screen over the class — pictures, PDFs and plain text — instead of saving a copy and leaving the app to find it. Saving a copy is still a button in the viewer, and a picture can be made bigger to read small writing.",
-    "A teacher can ask a learner to do the work again, with a reason. The activity opens back up for that learner, their file is kept so they can fix it rather than start over, and they are shown the reason and who asked.",
-    "A deployed task now leads with the activity itself: what to do, what to hand in, when it is due and for how many points. The reference packet follows it, under a heading that says it is there to help and that the activity is not inside the file.",
-    "A teacher who handles two classes has them listed one under the other. Side by side, the two names wrapped mid-name and read as one long string.",
-    "Fingerprint sign-in. A phone that has signed in before can be unlocked with its own fingerprint instead of a password typed in front of a class. The phone keeps only the account, never the password, and the password still works. Phones that cannot check a fingerprint are not offered one."
+    "A learner now sees the class leaderboard their teacher sees. On a school that is on the cloud a learner's phone holds only their own handed-in work, so the board worked itself out as a class of one — which is what learners were reporting. The teacher's phone, which has the whole class, now publishes the finished board for that section to read.",
+    "A class where nobody has handed anything in has no leaderboard at all. Before, it showed a podium of zeroes, and a learner who had handed in nothing was given the bronze medal. Only learners who have actually handed something in stand on the board.",
+    "Names no longer print over the scores. A long name wrapped onto a second line that was cut through the middle, and the app's shrink-to-fit sized each column on its own, so the three names and three scores no longer shared a line. Podium names are now one line in one size, ending in … when too long; the list below the podium spells every name out in full.",
+    "The leaderboard title no longer reads CLASS LEADERBOA… at the larger text size, and the YOU badge keeps clear of the rank number on the portrait."
   ],
   "notes_fil": [
-    "Nabubuksan na sa loob ng app ang gawaing ipinasa. Kapag tinapik ang file ng mag-aaral, lumalabas ito sa ibabaw ng klase — litrato, PDF at plain text — sa halip na mag-save ng kopya at lumabas ng app para hanapin. Nasa viewer pa rin ang pindutan para mag-save ng kopya, at mapapalaki ang litrato para mabasa ang maliliit na sulat.",
-    "Maaari nang hilingin ng guro na gawin muling ng mag-aaral ang gawain, may kalakip na dahilan. Bubukas muli ang gawain para sa kaniya, nananatili ang file niya kaya maaayos na lamang ito at hindi na mag-uumpisa sa wala, at ipinapakita sa kaniya ang dahilan at kung sino ang humiling.",
-    "Nauuna na ang mismong gawain sa ipinamigay na task: ang gagawin, ang ipapasa, kailan, at ilang puntos. Kasunod nito ang reference na pakete, sa ilalim ng pamagat na nagsasabing pantulong lamang ito at wala sa file ang mismong gawain.",
-    "Ang guro na may dalawang klase ay nakalista na ang mga ito nang sunod-sunod sa ibaba. Noon, magkatabi ang dalawang pangalan, napuputol sa gitna ng pangalan at parang isang mahabang pangalan.",
-    "Fingerprint sa pag-sign in. Ang teleponong nakapag-sign in na ay maaaring buksan sa pamamagitan ng sariling fingerprint nito, hindi na kailangang i-type ang password sa harap ng klase. Account lamang ang itinatago ng telepono, hindi ang password, at gumagana pa rin ang password. Hindi inaalok ito sa mga teleponong hindi makasusuri ng fingerprint."
+    "Nakikita na ng mag-aaral ang leaderboard ng klase na nakikita ng kanilang guro. Sa paaralang nasa cloud, ang telepono ng mag-aaral ay may taglay lamang na sariling naipasang gawain, kaya ang board ay nagiging klase ng iisa — ito ang iniuulat ng mga mag-aaral. Ang telepono ng guro, na may buong klase, ang naglalathala na ngayon ng tapos nang board para mabasa ng seksiyong iyon.",
+    "Ang klaseng walang pa namang naipapasa ay walang leaderboard. Dati, may podium ng mga sero, at ang mag-aaral na walang naipasa ay nabibigyan ng tanso. Tanging ang mga may talagang naipasa ang tumatayo sa board.",
+    "Hindi na nakapatong ang mga pangalan sa puntos. Ang mahabang pangalan ay napupunta sa pangalawang linya na naputol sa gitna, at ang shrink-to-fit ng app ay nagbibigay ng kanya-kanyang laki sa bawat hanay, kaya hindi na magkahanay ang tatlong pangalan at tatlong puntos. Isang linya at isang laki na ang mga pangalan sa podium, nagtatapos sa … kapag mahaba; buo ang pangalan sa listahan sa ilalim ng podium.",
+    "Hindi na nababasang CLASS LEADERBOA… ang pamagat sa mas malaking laki ng teksto, at malayo na ang badge na YOU sa numero ng ranggo sa litrato."
   ]
 }
