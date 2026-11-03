@@ -1,25 +1,19 @@
 {
-  "version": "1.2.9",
-  "versionCode": 142,
+  "version": "1.3.1",
+  "versionCode": 144,
   "date": "2026-11-03",
   "notes": [
-    "The class leaderboard now has exactly one champion, one silver and one bronze. Where learners used to tie on the same figure and all three showed as champion, submission time separates them.",
-    "How early work is handed in counts, not only whether it beat the deadline: the on-time half of the score is earned in full three days ahead and falls to 60% of it at the deadline itself. Late still earns none of it.",
-    "The podium lines up: the names, scores and blocks sit on shared baselines whatever size the champion's portrait is.",
-    "The adviser can open the work handed in to their advisory class. Before, only the file's name was shown, with nothing to tap.",
-    "Work handed in before the naming rule existed is renamed once, in place, the next time a teacher, adviser, coordinator or principal opens the app. The file itself is untouched and what the learner called it is kept.",
-    "Fixed: the Requirements tab in the adviser's Enrollment broke across two lines as REQUIREMENT / S.",
-    "Fixed: a section's schedule showed a raw {t} instead of the term's name, and opened on Term 1 in a school that was already in Term 2.",
-    "In the coordinator's Home, the classes each teacher handles now sit under their name and designation instead of at the foot of the card."
+    "Work handed in opens inside the app. Tapping a learner's file puts it on screen over the class — pictures, PDFs and plain text — instead of saving a copy and leaving the app to find it. Saving a copy is still a button in the viewer, and a picture can be made bigger to read small writing.",
+    "A teacher can ask a learner to do the work again, with a reason. The activity opens back up for that learner, their file is kept so they can fix it rather than start over, and they are shown the reason and who asked.",
+    "A deployed task now leads with the activity itself: what to do, what to hand in, when it is due and for how many points. The reference packet follows it, under a heading that says it is there to help and that the activity is not inside the file.",
+    "A teacher who handles two classes has them listed one under the other. Side by side, the two names wrapped mid-name and read as one long string.",
+    "Fingerprint sign-in. A phone that has signed in before can be unlocked with its own fingerprint instead of a password typed in front of a class. The phone keeps only the account, never the password, and the password still works. Phones that cannot check a fingerprint are not offered one."
   ],
   "notes_fil": [
-    "May isang kampeon, isang pilak at isang tanso na lamang ang leaderboard ng klase. Dati, kapag pareho ang puntos ay kampeon silang lahat; ngayon, ang oras ng pagpasa ang naghihiwalay sa kanila.",
-    "Binibilang na kung gaano kaaga ipinasa, hindi lamang kung naabot ang deadline: buo ang kalahating puntos sa pagiging nasa oras kapag tatlong araw na maaga, at 60% na lamang nito sa mismong deadline. Wala pa ring puntos ang huli.",
-    "Pantay-pantay na ang podium: nakahanay ang mga pangalan, puntos at bloke anuman ang laki ng litrato ng kampeon.",
-    "Mabubuksan na ng adviser ang gawaing ipinasa sa advisory class nila. Dati, pangalan lang ng file ang lumalabas at walang matapik.",
-    "Pinapalitan ng pangalan ang gawaing naipasa bago pa umiral ang panuntunan sa pangalan, nang isang beses, sa susunod na buksan ng guro, adviser, coordinator o punongguro ang app. Hindi ginagalaw ang mismong file at itinatago ang tawag dito ng mag-aaral.",
-    "Naayos: ang tab na Requirements sa Enrollment ng adviser ay napuputol sa dalawang linya bilang REQUIREMENT / S.",
-    "Naayos: may lumalabas na {t} sa iskedyul ng seksiyon sa halip na pangalan ng termino, at bumubukas ito sa Term 1 kahit nasa Term 2 na ang paaralan.",
-    "Sa Home ng coordinator, ang mga klaseng hawak ng bawat guro ay nasa ilalim na ng pangalan at designation nila sa halip na nasa paanan ng card."
+    "Nabubuksan na sa loob ng app ang gawaing ipinasa. Kapag tinapik ang file ng mag-aaral, lumalabas ito sa ibabaw ng klase — litrato, PDF at plain text — sa halip na mag-save ng kopya at lumabas ng app para hanapin. Nasa viewer pa rin ang pindutan para mag-save ng kopya, at mapapalaki ang litrato para mabasa ang maliliit na sulat.",
+    "Maaari nang hilingin ng guro na gawin muling ng mag-aaral ang gawain, may kalakip na dahilan. Bubukas muli ang gawain para sa kaniya, nananatili ang file niya kaya maaayos na lamang ito at hindi na mag-uumpisa sa wala, at ipinapakita sa kaniya ang dahilan at kung sino ang humiling.",
+    "Nauuna na ang mismong gawain sa ipinamigay na task: ang gagawin, ang ipapasa, kailan, at ilang puntos. Kasunod nito ang reference na pakete, sa ilalim ng pamagat na nagsasabing pantulong lamang ito at wala sa file ang mismong gawain.",
+    "Ang guro na may dalawang klase ay nakalista na ang mga ito nang sunod-sunod sa ibaba. Noon, magkatabi ang dalawang pangalan, napuputol sa gitna ng pangalan at parang isang mahabang pangalan.",
+    "Fingerprint sa pag-sign in. Ang teleponong nakapag-sign in na ay maaaring buksan sa pamamagitan ng sariling fingerprint nito, hindi na kailangang i-type ang password sa harap ng klase. Account lamang ang itinatago ng telepono, hindi ang password, at gumagana pa rin ang password. Hindi inaalok ito sa mga teleponong hindi makasusuri ng fingerprint."
   ]
 }
