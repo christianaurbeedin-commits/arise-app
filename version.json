@@ -1,8 +1,10 @@
 {
-  "version": "1.3.7",
-  "versionCode": 150,
+  "version": "1.3.9",
+  "versionCode": 152,
   "date": "2026-11-04",
   "notes": [
+    "Enrollment head count: the coordinator and the principal now see two tables of learners by grade level and sex, one for the regular sections and one for the Manila City Jail sections. The jail portal's Enrollment shows the Manila City Jail table.",
+    "Manila City Jail portal › Enrollment: the list is now the learners the coordinator enrolled in the Manila City Jail sections, with the coordinator's name, LRN and section. The jail no longer enrolls; it keeps each learner's status (studying, released, transferred, completed) and the release letter. Learners already released, transferred or completed stay in the list.",
     "Coordinator › Sections › Schedule: a class can be set on several days at once. Tick every day it meets (for example Mon, Wed and Fri) and give the time, subject and teacher once.",
     "Bulk enrollment reads each line as LRN, SURNAME, First Name M.I., M/F, Track/Strand (for example: 136412345678, DIN, Christian Aurbee B., M, Academic - GAS). Lines copied from a spreadsheet work too.",
     "Learners enrolled in Manila City Jail classes have no app account. Accounts made for them before are removed when the coordinator's app updates; they stay enrolled.",
@@ -17,6 +19,8 @@
     "Coordinator's Home: Meetings with learners no longer has its heading twice. Fingerprint sign-in is removed."
   ],
   "notes_fil": [
+    "Bilang ng naka-enroll: dalawang talahanayan na ng mga mag-aaral ayon sa baitang at kasarian ang nakikita ng coordinator at ng principal, isa para sa mga regular na seksiyon at isa para sa mga seksiyon ng Manila City Jail. Makikita sa Enrollment ng jail portal ang talahanayan ng Manila City Jail.",
+    "Manila City Jail portal › Enrollment: ang listahan ay ang mga mag-aaral na in-enroll ng coordinator sa mga seksiyon ng Manila City Jail, kasama ang pangalan, LRN at seksiyon mula sa coordinator. Hindi na nag-e-enroll ang jail; itinatala nito ang katayuan ng bawat mag-aaral (nag-aaral, nakalaya, lumipat, nakatapos) at ang liham sa paglaya. Nananatili sa listahan ang mga nakalaya, lumipat o nakatapos na.",
     "Coordinator › Sections › Schedule: maaaring itakda ang isang klase sa ilang araw nang sabay. Pindutin ang bawat araw na may klase (halimbawa Lun, Miy at Biy) at ilagay nang isang beses ang oras, asignatura at guro.",
     "Binabasa ng bulk enrollment ang bawat linya bilang LRN, APELYIDO, Pangalan M.I., M/F, Track/Strand (halimbawa: 136412345678, DIN, Christian Aurbee B., M, Academic - GAS). Gumagana rin ang mga linyang kinopya mula sa spreadsheet.",
     "Walang account sa app ang mga mag-aaral na naka-enroll sa klase sa Manila City Jail. Inaalis ang mga account na nagawa para sa kanila dati kapag na-update ang app ng coordinator; naka-enroll pa rin sila.",
