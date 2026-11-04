@@ -1,8 +1,9 @@
 {
-  "version": "1.3.6",
-  "versionCode": 149,
+  "version": "1.3.7",
+  "versionCode": 150,
   "date": "2026-11-04",
   "notes": [
+    "Coordinator › Sections › Schedule: a class can be set on several days at once. Tick every day it meets (for example Mon, Wed and Fri) and give the time, subject and teacher once.",
     "Bulk enrollment reads each line as LRN, SURNAME, First Name M.I., M/F, Track/Strand (for example: 136412345678, DIN, Christian Aurbee B., M, Academic - GAS). Lines copied from a spreadsheet work too.",
     "Learners enrolled in Manila City Jail classes have no app account. Accounts made for them before are removed when the coordinator's app updates; they stay enrolled.",
     "The loading screen stays as it should until the app opens: no more moment of large logos over plain text.",
@@ -16,6 +17,7 @@
     "Coordinator's Home: Meetings with learners no longer has its heading twice. Fingerprint sign-in is removed."
   ],
   "notes_fil": [
+    "Coordinator › Sections › Schedule: maaaring itakda ang isang klase sa ilang araw nang sabay. Pindutin ang bawat araw na may klase (halimbawa Lun, Miy at Biy) at ilagay nang isang beses ang oras, asignatura at guro.",
     "Binabasa ng bulk enrollment ang bawat linya bilang LRN, APELYIDO, Pangalan M.I., M/F, Track/Strand (halimbawa: 136412345678, DIN, Christian Aurbee B., M, Academic - GAS). Gumagana rin ang mga linyang kinopya mula sa spreadsheet.",
     "Walang account sa app ang mga mag-aaral na naka-enroll sa klase sa Manila City Jail. Inaalis ang mga account na nagawa para sa kanila dati kapag na-update ang app ng coordinator; naka-enroll pa rin sila.",
     "Nananatiling maayos ang loading screen hanggang bumukas ang app: wala nang sandaling malalaking logo sa ibabaw ng payak na teksto.",
